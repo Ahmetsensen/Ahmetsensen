@@ -1,21 +1,5 @@
-# Hallo, ich bin Ahmet Sen 👋
+Hallo! 👋 Ich arbeite seit einem Jahr aktiv im Bereich der Programmierung. Mein Ziel ist es immer, das Beste zu erreichen und mich ständig zu verbessern. Ich schreite leidenschaftlich und enthusiastisch auf diesem Weg voran, indem ich mehr über Software lerne. Ich entwickle interaktive Benutzeroberflächen mit HTML, CSS, Bootstrap, SCSS, SASS, JavaScript, API, React und Tailwind CSS. Ich habe eine Leidenschaft für die Entwicklung funktionaler Webanwendungen, die immer für Weiterentwicklungen offen sind. Ich kann sowohl alleine als auch im Team mit hoher Motivation arbeiten. Ich freue mich darauf, mit Teams an offenen und herausfordernden Projekten zu arbeiten.
 
-## Über mich
-Ich bin leidenschaftlicher Frontend-Entwickler und liebe es, interaktive und ansprechende Benutzeroberflächen zu erstellen. Meine Stärken liegen in HTML, CSS und JavaScript, und ich habe Erfahrung darin, moderne Webanwendungen zu entwickeln.
+Aktuell arbeite ich an HTML, CSS, Bootstrap, SCSS, SASS, JavaScript und React. Ich lerne gerade React dazu. 🌱
 
-## Projekte
-- [Projektname 1](Link): Hier habe ich eine einfache, responsive Landingpage mithilfe von HTML und CSS erstellt.
-- [Projektname 2](Link): In diesem Projekt habe ich eine interaktive Todo-Liste mit JavaScript entwickelt.
-
-## Fähigkeiten
-- HTML: Ich kann Webseiten und deren Struktur mit HTML aufbauen.
-- CSS: Ich gestalte und style Webseiten mit CSS, um sie ansprechend und ästhetisch zu gestalten.
-- JavaScript: Mit JavaScript mache ich Webseiten dynamisch und interaktiv.
-
-## Kontakt
-- [LinkedIn](https://www.linkedin.com/in/dein-linkedin-profil)
-- [Twitter](https://twitter.com/dein-twitter-profil)
-- [Persönliche Webseite](https://www.deine-webseite.com)
-
-Wenn Sie an meinen Projekten oder Fähigkeiten interessiert sind, zögern Sie nicht, mich zu kontaktieren. Ich freue mich darauf, an Open-Source-Projekten mitzuarbeiten und neue Menschen kennenzulernen!
-
+Wenn du weitere Fragen hast oder über etwas Bestimmtes sprechen möchtest
